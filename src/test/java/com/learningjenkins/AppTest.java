@@ -1,4 +1,4 @@
-package com.learningjetkins;
+package com.learningjenkins;
 
 import org.junit.Test;
 
