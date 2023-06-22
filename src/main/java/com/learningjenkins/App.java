@@ -1,4 +1,4 @@
-package com.learningjetkins;
+package com.learningjenkins;
 
 public class App {
     public static void main( String[] args )
